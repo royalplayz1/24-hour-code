@@ -38,7 +38,7 @@ After installation, your VPS will remain active 24/7 without being stopped.
 You can check uptime with:  
 
 ```bash
-uptime
+you see My name Type again and again that made your vps 24/7
 ```
 
 ---
@@ -64,4 +64,4 @@ Some VPS providers may prohibit bypassing inactivity rules. Please review your p
 
 ## 📜 License
 
-This project is licensed under the **MIT License** – see the [LICENSE](https://github.com/royalplayz1/24-hour-code/blob/main/Licence)) file for details.  
+This project is licensed under the **MIT License** – see the [LICENSE](https://github.com/royalplayz1/24-hour-code/blob/main/Licence) file for details.  
