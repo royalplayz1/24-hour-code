@@ -46,9 +46,8 @@ you see My name Type again and again that made your vps 24/7
 ## 📂 Project Structure
 
 ```
-24-7-maker/
-│── 24-7-maker.sh   # Main script
-│── start.sh        # Auto installer (shortcut)
+24-7 hour code/
+│── 24-7            # Main script
 │── README.md       # Documentation
 │── LICENSE         # License file
 ```
