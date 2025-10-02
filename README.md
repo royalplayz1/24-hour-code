@@ -21,13 +21,13 @@ Once installed, your VPS will stay alive and no longer shut down due to inactivi
 Run this command in your VPS terminal:  
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/yourusername/24-7-maker/main/24-7-maker.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/royalplayz1/24-hour-code/main/24)
 ```
 
 or using `wget`:  
 
 ```bash
-bash <(wget -qO- https://raw.githubusercontent.com/yourusername/24-7-maker/main/24-7-maker.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/royalplayz1/24-hour-code/main/24)
 ```
 
 ---
