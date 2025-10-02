@@ -19,3 +19,13 @@ Run this command directly in your VPS terminal:
 
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/yourusername/24-7-maker/main/24-7-maker.sh)
+
+⚠️ Disclaimer
+
+This tool is provided as-is.
+Some VPS providers may prohibit bypassing inactivity rules. Please review your provider’s Terms of Service before using this script.
+
+📜 License
+
+This project is licensed under the MIT License – see the LICENSE
+ file for details.
