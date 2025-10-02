@@ -64,4 +64,4 @@ Some VPS providers may prohibit bypassing inactivity rules. Please review your p
 
 ## 📜 License
 
-This project is licensed under the **MIT License** – see the [LICENSE](https://github.com/yourusername/24-7-maker/blob/main/LICENSE) file for details.  
+This project is licensed under the **MIT License** – see the [LICENSE](https://github.com/royalplayz1/24-hour-code/blob/main/Licence)) file for details.  
